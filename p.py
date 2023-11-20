@@ -18,3 +18,5 @@ title = soup.title.text
 
 # 打印结果
 print("页面标题:", title)
+
+print("测试")
