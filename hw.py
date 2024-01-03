@@ -1,0 +1,2 @@
+s = "hollleworld"
+print(s)
